@@ -1,0 +1,141 @@
+
+body {
+	background-image: url('../images/bg-white-fabric.png');
+}
+
+#header{
+  	position: fixed;
+  	height:65px;
+  	width:100%;
+  	min-width: 1000px;
+  	margin: -10px -8px 0px -8px;
+  	background-image: url('../images/bg-white-fabric.png');
+  	box-shadow: 0px 5px 5px rgba(93, 148, 82, 0.43);
+}
+
+#header-data{
+	height: 65px;
+	width: 1000px;
+	margin: 0 auto;	
+}
+
+#text-welcome{
+	float:left;
+	margin: 7.5px 0 0 225px;
+}
+
+#buttoms-header{
+	float:left;
+	margin: 7.5px 0 0 225px;
+}
+
+#image-logo{
+	float:left;
+	width: 150px;
+	margin: 20px 0 0 0;	
+}
+
+#footer{
+	height: 180px;
+	margin: 0 -8px -20px -8px;
+	background-color: #62858d;
+	box-shadow: 0px -5px 5px rgba(93, 148, 82, 0.43);
+}
+
+#content{
+	/*background-image: url('../images/bg-white-fabric.png');*/
+	overflow:auto;
+	margin-left: -10px;
+	margin-right:-8px;
+}
+
+#area-1{
+	background-image: url('../images/bg-white-fabric.png');
+	height: 3000px;
+}
+
+#area-1-section{
+	width:1000px;
+	margin: 0 auto;
+}
+
+#menu{
+
+	background: rgba(93, 148, 82, 0.43);
+	width: 1000px;
+	height: 55px;
+	float: left;
+	margin: 35px 0 0 0;
+	border:2px solid #EEEEEE;
+	border-radius:10px;	
+
+}
+
+.options-menu{
+	color: #FFFFFF;
+	float:left;
+	margin: 28px 0 0 10px;
+}
+
+#section-1{
+	width:489px;
+	float:left;
+	height: 1197px;
+	margin: 25px 0 20px 0;
+	border:1px solid #d1d1c9;
+	background-color: rgba(0, 0, 0, 0.03);
+	border-radius:5px;	
+}
+
+.section-header{
+	text-align: center;
+	color: #000000;
+	background: #FFFFFF;
+	float: left;
+	margin: -1px 0 10px -1px;
+	border: 1px solid #d1d1c9;
+	border-top-left-radius:5px; 
+	border-top-right-radius:5px; 
+	width:100%;
+	height:30px;
+}
+
+.section-header-text{
+	margin-top: 5px;
+}
+
+#section-1-data{
+	width: 580px;
+	padding: 10px 10px 0 10px;
+}
+
+.section-data{
+	float:left;
+	margin-top: -10px;
+	box-shadow: inset 0px 2px 20px rgba(0, 0, 0, 0.1);	
+}
+
+#section-1-element{
+	float:left;
+	width:96%;
+	margin-bottom:10px;
+	border:1px solid #d1d1c9;
+	padding:10px 10px; 
+	/*background-color: rgba(0, 0, 0, 0.03);*/
+	background:#FFFFFF;
+	border-radius:10px;	
+}
+
+#section-2{
+	width:489px;
+	float:left;
+	height: 1197px;
+	margin: 25px 0 20px 0;
+	border:1px solid #d1d1c9;
+	background-color: rgba(0, 0, 0, 0.03);
+	border-radius:5px;	
+}
+
+* html body{
+ 	overflow:hidden;
+}

@@ -1,0 +1,295 @@
+
+
+#content{
+	/*background-image: url('../images/bg-white-fabric.png');*/
+	overflow:auto;
+	margin-left: -10px;
+	margin-right:-8px;
+}
+
+#area-1{
+	/*background-image: url('../images/bg-blueclear-fabric.png');*/
+	margin: 50px 0 0 0;
+}
+
+#area-1-section{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#section-1{
+	width:600px;
+	float:left;
+	margin: 25px 0 20px 0;
+}
+
+.section-header{
+	text-align: center;
+	color: #2C2C2C;
+	background-color: rgba(255, 255, 255, 1);
+	float: left;
+	margin: -1px 0 15px -1px;
+	/*border: 1px solid #A8A8A8;*/
+	border-radius: 5px;
+	width: 100%;
+	box-shadow: 5px 5px 10px rgb(54, 54, 54);
+	height: 30px;
+}
+
+.section-header-text{
+	margin-top: 5px;
+}
+
+#section-1-data{
+	width: 580px;
+	padding: 10px 0 0 0px;
+}
+
+.section-data{
+	float: left;
+	margin-top: -10px;
+}
+
+.shadow-box{
+	box-shadow: 5px 5px 10px rgb(54, 54, 54);
+}
+
+#section-1-element{
+	float: left;
+	width: 597px;
+	height: 200px;
+	margin-bottom: 10px;
+	border:1px solid #d1d1c9;
+	border-radius:10px;
+	/*background-color: rgba(0, 0, 0, 0.03);*/
+	background: #FFFFFF;
+}
+
+#element-header{
+	float:left;	
+	height: 75px;
+	width:100%;
+	/*border-radius-top-left:10px;	
+	border-radius-top-right:10px;	*/
+}
+
+#element-header-image{
+	float:left;	
+	height:100%;
+	width:76px;
+	margin: 8px 0 0 8px;
+}
+
+#element-header-name{
+	float:left;	
+	margin: 0 0 0 -2px;
+	height:100%;
+	width:350px;
+}
+
+#element-descrip{
+	float: left;
+	margin: 4px 0 8px 8px;
+	border: 1px solid #d1d1c9;
+	width: 562px;
+	height: 100px;
+	padding: 0 8px 8px 8px;
+	border-radius:10px;
+	background-color: white;
+}
+
+#descrip-data{
+	width: 100%;
+	height: 95px;
+	margin: -8px 0 0 0;
+}
+
+#element-icon{
+	float:left;
+	width:544px;
+	height: 20px;
+	padding-left: 540px;
+}
+
+#element-header-buttons{
+	float:left;	
+	width:148px;
+	height: 50px;
+	margin: 23px 0 0 0;
+}
+
+#section-2{
+	width:365px;
+	float:left;
+	height: 871px;
+	margin: 25px 0 20px 30px;
+}
+
+#section-2-data{
+	width: 365px;
+	padding: 10px 0px 20px 0px;
+}
+
+.section-2-element{
+	float:left;
+	width:100%;
+	height:200px;
+	border:1px solid #d1d1c9;
+	border-radius:10px;
+	/*background-color: rgba(0, 0, 0, 0.03);*/
+	background:#FFFFFF;
+	margin-bottom: 10px;
+}
+
+#element-2-name{
+	width: 345px;
+	height: 20px;
+	float:left;
+	padding: 10px;
+	border-bottom: 1px solid rgb(218, 218, 218);
+}
+
+.element-2-user{
+	margin-top: 10px;
+	width:120px;
+	height: 140px;
+	float:left;
+}
+
+.element-2-userimage{
+	width:118px;
+	height: 70px;
+	padding: 10px 10px 10px 30px;
+	float:left;
+}
+.element-2-uservotes{
+	width:118px;
+	height: 30px;
+	float:left;
+	padding: 10px 10px 10px 60px;
+}
+#icon-challenge{
+	width:20px;
+	height: 70px;
+	float:left;
+	padding: 32px 0 0 60px;
+	margin-right:40px;
+}
+
+#area-2{
+	height: 1275px;
+}
+
+#area-2-section{
+	width:1000px;
+	margin: 0 auto;
+}
+
+#area-2-section-1{
+	width:1000px;
+	float:left;
+	margin: 0 0 20px 0;
+}
+
+#area-2-section-1-data{
+	width: 955px;
+	padding: 10px 0 0 0;
+}
+
+#area-2-section-1-element{
+	
+	float:left;
+	width:976px;
+	margin-bottom:10px;
+	border:1px solid #d1d1c9;
+	padding:10px 10px; 
+	border-radius:10px;
+	background:#FFFFFF;
+	
+}
+
+#area-2-section-1-element-data{
+
+	float:left;
+	width:100%;
+	height:30px;
+	border-bottom: 1px solid rgb(218, 218, 218);
+	
+}
+
+.area-2-section-1-element-user{
+	
+	float:left;
+	width:100%;
+	height:160px;
+	background-color:white;
+	
+}
+
+.area-2-section-1-element-votes{
+	height: 126px;
+	width: 75px;
+	float: left;
+	border: 1px solid rgb(199, 199, 199);
+	border-radius: 4px;
+	margin: 0 20px 0 0;
+}
+
+.area-2-section-1-element-data{
+	float: left;
+	margin: 0 0 8px 0;
+	border: 1px solid rgba(160, 160, 160, 0.45);
+	border-radius: 17px;
+	width: 710px;
+	height: 25px;
+	padding: 5px 0 0 10px;
+}
+
+#area-3{
+	height: 200px;
+}
+
+#area-3-section{
+	width:1000px;
+	margin: 0 auto;
+}
+
+#area-3-section-1{
+	width:1000px;
+	float:left;
+	margin: 0 0 50px 0;
+}
+
+#area-3-section-1-data{
+	width: 966px;
+	padding: 10px 10px 0 20px;
+	background-color: white;
+}
+
+.area-3-section-1-data-elements{
+	float:left;
+	width: 950px;
+	margin-bottom:20px;
+}
+
+.area-3-section-1-data-elements2{
+	float:left;
+	width:950px;
+}
+
+#area-3-section-1-header{
+	margin: 0 0 30px 0;
+}
+
+#area-3-section-1-element{
+	
+	float:left;
+	width:100%;
+	margin-bottom:10px;
+	border:1px solid #d1d1c9;
+	padding:10px 10px; 
+	background:#FFFFFF;
+	
+}
+
+

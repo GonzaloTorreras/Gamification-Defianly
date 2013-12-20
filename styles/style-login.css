@@ -1,0 +1,91 @@
+
+#area-1{
+	margin:0 auto;
+	height: 580px;
+	width: 1000px;
+}
+
+#section-1{
+
+	float:left;
+	width:1000px;
+	height:510px;
+	margin: 75px 0 0 0;
+
+}
+
+#area-1-section{
+width:1000px;
+margin: 0 auto;
+}
+
+#text-login{
+margin-top:90px;
+}
+
+#section-1{
+float:left;
+width:1000px;
+margin: 10px 0 100px 0;
+}
+
+.button{
+height: 30px;
+width: 200px;
+text-align: center;
+}
+
+#section-1-login{
+margin: 10px 0 30px 0;
+float: left;
+width: 100%;
+height: 60px;
+border: 1px solid #525252;
+background-color: white;
+border-radius: 10px;
+}
+#form-login-1{
+float: left;
+padding: 15px;
+margin-right: 55px;
+height: 30px;
+}
+#form-login-2{
+float:left;
+padding: 15px;
+margin-right: 55px;
+height:30px;
+}
+#form-login-3{
+float:left;
+padding: 13px;
+height:30px;
+}
+
+#section-1-registration{
+margin: 30px 0 30px 154px;
+float: left;
+padding: 20px;
+width: 650px;
+height: 370px;
+border: 1px solid #525252;
+background-color: white;
+border-radius: 10px;
+}
+
+#button-registration{
+float:left;
+margin: 40px 0 0 230px;
+}
+
+.registration-left{
+float: left;
+width: 200px;
+padding: 10px;
+}
+
+.registration-right{
+float:left;
+width:400px;
+padding:10px;
+}

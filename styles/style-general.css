@@ -1,0 +1,94 @@
+
+body{
+	background: url('../images/Fondos/bg6.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size:15px;
+	
+	/*background: url('images/bgtr.svg') top right no-repeat, url('images/bgbl.svg') bottom left no-repeat, url('images/bgbl.svg') bottom left no-repeat, url('images/overlay.png'), linear-gradient(45deg, #b39c68, #a56365, #412e4c);
+	*/
+ }
+
+#header{
+	background: url('../images/Fondos/bg6.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  	position: fixed;
+  	height:65px;
+  	width:100%;
+  	min-width: 1000px;
+  	margin: -10px -8px 0px -8px;
+  	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.56);
+}
+
+#icons-header{
+	width: 50px;
+	height: 100px;
+	float: left;
+	margin: 10px 0 0 1020px;
+}
+
+#header-data{
+	height: 65px;
+	width: 1000px;
+	margin: 0 auto;	
+}
+
+#text-welcome{
+	float:left;
+	margin: 20px 0 0 170px;
+}
+
+#button-mychallenges{
+	float:left;
+}
+
+#button-close{
+	float: right;
+	margin: 10px 0 0 0;
+	width: 130px;
+	height: 31px;
+}
+
+#buttons-header{
+	height: 60px;
+	width: 200px;
+	float: right;
+	padding: 8px;
+}
+
+#image-logo{
+	float:left;
+	width: 150px;
+	margin: 20px 0 0 0;	
+}
+
+#content {
+	overflow: auto;
+	margin-left: -10px;
+	margin-right: -8px;
+}
+
+#footer{
+	height: 100px;
+	margin: 0 -8px -20px -8px;
+	background-color: #62858d;
+	box-shadow: 0px -5px 5px rgba(0, 0, 0, 0.56);
+	
+	background: url('../images/Fondos/bg6.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+* html body{
+ 	overflow:hidden;
+}
+
+
+
