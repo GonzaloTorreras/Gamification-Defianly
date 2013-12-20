@@ -132,14 +132,16 @@
 			
 			
 		
-		
-		<div id="footer">
-			<div style="width:100%;height:100%;background-color:rgba(0, 0, 0, 0.47);">Footer</div>
-		</div>
-		
-		
 		<?php
-		
+		if(!empty($_SESSION['err'])){
+				?>
+					<script>
+						alert("<?php echo $_SESSION['err'];?>");
+					</script>
+				<?php
+				
+				$_SESSION['err'] = null;
+			}
 			//Close server
 			mysqli_close($con);
 	
